@@ -1,6 +1,4 @@
 # hello-world
-My first Repository
-
 Hello Earthlings!
 
 Jesus here, I like learning new programming languages as well as scripting languages.
